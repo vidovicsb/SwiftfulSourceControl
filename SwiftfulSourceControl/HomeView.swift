@@ -34,6 +34,7 @@ struct HomeView: View {
     
     var body: some View {
         VStack {
+            Text("Hi")
             Text("Screen2!")
             
             Text("Screen2!")

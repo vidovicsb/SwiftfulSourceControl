@@ -14,6 +14,8 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful thinking!")
+            
+            Rectangle()
         }
         .padding()
     }
