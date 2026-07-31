@@ -47,10 +47,6 @@ struct HomeView: View {
             
             
         }
-        .onAppear {
-            // send analytics
-            
-        }
     }
 }
 
