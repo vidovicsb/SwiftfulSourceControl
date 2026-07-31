@@ -45,10 +45,6 @@ struct HomeView: View {
             Text("Hi")
             Text("Screen2!")
             
-            Text("Screen2!")
-            Text("Screen2!")
-            
-            Text("Screen2!")
             
         }
         .onAppear {
