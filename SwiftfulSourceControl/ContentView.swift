@@ -24,6 +24,7 @@ struct ContentView: View {
                             }
                             
                             Rectangle()
+                                .frame(height: 100)
                         }
                     }
                 }
